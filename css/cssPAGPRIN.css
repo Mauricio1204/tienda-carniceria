@@ -1,0 +1,122 @@
+
+.filtros{
+    width: 300px;
+    height: 650px;
+    /* centrado vertical */
+   /* top:0%; */
+   right: 10%;
+   /* background: yellow; */
+   /* margin-top: 50px; */
+
+}
+.list-group{
+    margin-top: 50px;
+    width: auto;
+    height: 650px;
+    color: royalblue;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+  #h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;    
+  }
+  .corte1{
+    /* background: yellow; */
+        width: 1023px;       
+        height: 200px;
+        position: absolute;
+        top: 100%;
+        margin-top: 35px;
+        right: 0px;
+        /* margin-top: -100px; */
+  }
+  .descripcion{
+    
+    width: 75%;       
+    height: 200px;
+    position: absolute;
+    top: 0%;
+    margin-top: 35px;
+    right: 0px;
+    text-align: center;
+  }
+  .corte2{
+      /* background: rgb(0, 140, 255); */
+      width: 75%;       
+      height: 250px;
+      position: absolute;
+      top: 150%;
+      margin-top: 35px;
+      right: 0px;
+
+  }
+  .descripcion2{
+    
+    width: 75%;       
+    height: 180px;
+    position: absolute;
+    top: 0%;
+    margin-top: 35px;
+    left: 20px;
+    text-align: center;
+  }
+#img{
+    position: absolute;
+    top: 0%;
+    width: auto;       
+    height: 200px;
+    left: 80%;    
+}
+#ENCAVEZADO{
+    width: 99%;
+    height: 100%;
+    color: royalblue;       
+
+}
+.carouselExampleDark{
+    width: 99%;    
+    top:100%;
+}
+
+.corte3{
+    /* background: yellow; */
+        width: 1023px;       
+        height: 200px;
+        position: absolute;
+        top: 190%;
+        margin-top: 35px;
+        right: 0px;
+        /* margin-top: -100px; */
+  }
+  .descripcion3{
+    
+    width: 75%;       
+    height: 200px;
+    position: absolute;
+    top: 0%;
+    margin-top: 35px;
+    right: 0px;
+    text-align: center;
+  }
+  .comtainer{
+    font-size: 20px;
+    color: royalblue;
+ 
+}
+.list-group-item{
+    color: royalblue;
+}
+
